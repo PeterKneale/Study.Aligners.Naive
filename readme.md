@@ -1,1 +1,1 @@
-<script src="https://asciinema.org/a/QwMwc9pL8aECMURb.js" id="asciicast-QwMwc9pL8aECMURb" async="true"></script>
+<a href="https://asciinema.org/a/QwMwc9pL8aECMURb" target="_blank"><img src="https://asciinema.org/a/QwMwc9pL8aECMURb.svg" /></a>
