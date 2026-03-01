@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study.Aligners.Naive.Core", "Study.Aligners.Naive.Core\Study.Aligners.Naive.Core.csproj", "{9DC01780-18B9-4446-9EB5-41278F6A6062}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study.Aligners.Naive.Cli", "Study.Aligners.Naive.Cli\Study.Aligners.Naive.Cli.csproj", "{92BA484B-2A72-48C7-BBCB-FD1E141B1865}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study.Aligners.Naive.Core.Tests", "Study.Aligners.Naive.Core.Tests\Study.Aligners.Naive.Core.Tests.csproj", "{1DE2FB07-1847-4B19-9800-D69D19AB5A01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DC01780-18B9-4446-9EB5-41278F6A6062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DC01780-18B9-4446-9EB5-41278F6A6062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DC01780-18B9-4446-9EB5-41278F6A6062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DC01780-18B9-4446-9EB5-41278F6A6062}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92BA484B-2A72-48C7-BBCB-FD1E141B1865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92BA484B-2A72-48C7-BBCB-FD1E141B1865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92BA484B-2A72-48C7-BBCB-FD1E141B1865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92BA484B-2A72-48C7-BBCB-FD1E141B1865}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DE2FB07-1847-4B19-9800-D69D19AB5A01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DE2FB07-1847-4B19-9800-D69D19AB5A01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DE2FB07-1847-4B19-9800-D69D19AB5A01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DE2FB07-1847-4B19-9800-D69D19AB5A01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
